@@ -1,0 +1,14 @@
+
+body{padding: 7%;
+    background-image: url("back ground.png");}
+}
+h1{color: fuchsia;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(146, 180, 243);}
+h2{color: fuchsia;}
+a {
+    background-color: rgb(235, 137, 91);
+    color: white;
+    padding: 1em 1.5em;
+    text-transform: uppercase;
+  }:not()
